@@ -5,12 +5,13 @@ class FirebaseConfig {
     constructor() {
         this.config = {
             // Replace these with your actual Firebase config values
-            apiKey: "AIzaSy...", // Your Firebase API key
-            authDomain: "your-project-id.firebaseapp.com", // Your project domain
-            projectId: "your-project-id", // Your Firebase project ID
-            storageBucket: "your-project-id.appspot.com", // Your storage bucket
-            messagingSenderId: "123456789012", // Your sender ID
-            appId: "1:123456789012:web:abcdef1234567890" // Your app ID
+            apiKey: "AIzaSyAzhjDSvhUtMKO6ZaONwLjfKveQGuZmqUA",
+            authDomain: "realestatetemp.firebaseapp.com",
+            projectId: "realestatetemp",
+            storageBucket: "realestatetemp.firebasestorage.app",
+            messagingSenderId: "79443195851",
+            appId: "1:79443195851:web:80a3cf4e2377e7b130e84e",
+            measurementId: "G-SCWNX8CK69" // Your app ID
         };
         
         this.isInitialized = false;
@@ -74,3 +75,4 @@ class FirebaseConfig {
 
 // Global Firebase configuration instance
 window.FirebaseConfig = new FirebaseConfig();
+
