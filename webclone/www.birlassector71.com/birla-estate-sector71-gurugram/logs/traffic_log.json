@@ -4387,5 +4387,93 @@
     "session_id": "session_1761798999313_zmp6s6oxv",
     "device_type": "desktop",
     "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:23",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "825+seconds",
+    "action": "time_on_page",
+    "session_id": "session_1761798999313_zmp6s6oxv",
+    "device_type": "desktop",
+    "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:24",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "action": "page_view",
+    "session_id": "session_1761799824334_c6rbwhdrh",
+    "device_type": "desktop",
+    "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:27",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "action": "scroll_25",
+    "session_id": "session_1761799824334_c6rbwhdrh",
+    "device_type": "desktop",
+    "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:29",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "Get+Instant+Call+Back",
+    "action": "button_click",
+    "session_id": "session_1761799824334_c6rbwhdrh",
+    "device_type": "desktop",
+    "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:29",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "action": "form_submit",
+    "session_id": "session_1761799824334_c6rbwhdrh",
+    "device_type": "desktop",
+    "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:29",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "action": "visit",
+    "session_id": "session_1761799829728_nko2lljpk",
+    "device_type": "unknown",
+    "browser": "unknown"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:29",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "6+seconds",
+    "action": "time_on_page",
+    "session_id": "session_1761799824334_c6rbwhdrh",
+    "device_type": "desktop",
+    "browser": "Chrome"
+  },
+  {
+    "timestamp": "2025-10-30 04:50:35",
+    "ip": "::1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "referer": "http://localhost:8001/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "page": "/webclone/www.birlassector71.com/birla-estate-sector71-gurugram/index.html",
+    "action": "page_view",
+    "session_id": "session_1761799835763_8nszq0yp1",
+    "device_type": "desktop",
+    "browser": "Chrome"
   }
 ]
